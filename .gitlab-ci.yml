@@ -1,5 +1,5 @@
 image : $GITLAB_CI_CD_IMAGE
 include:
   - project: 'aire-dev/agent-spec'
-    ref: try-downstream-pipeline
+    ref: support-github
     file: '/.gitlab-ci.yml'
