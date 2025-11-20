@@ -7,7 +7,7 @@
 # Open Agent Specification
 
 Agent Spec is a portable, platform-agnostic configuration language that allows Agents
-and Agentic Systems to be described with sufficient fidelity.
+and dAgentic Systems to be described with sufficient fidelity.
 It defines the conceptual objects and called components that compose Agents in typical Agent systems,
 including the properties that determine the components' configuration, and their respective semantics.
 Agent Spec is based on two main runnable standalone components:
