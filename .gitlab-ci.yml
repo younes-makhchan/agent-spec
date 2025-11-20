@@ -1,5 +1,5 @@
-image : $GITLAB_CI_CD_IMAGE
+image : $GITLAB_CI_CD_IMAGE_JQ
 include:
-  - project: 'aire-dev/agent-spec'
+  - project: '$CI_PROJECT_NAMESPACE/agent-spec'
     ref: support-github
     file: '/.gitlab-ci.yml'
