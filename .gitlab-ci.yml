@@ -6,4 +6,4 @@ include:
   - local: '.gitlab/jobs/schedule_regression.yml'
 
 stages:
-  - triggertesting
+  - trigger
